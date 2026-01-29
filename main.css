@@ -24,7 +24,7 @@ h1 {
   margin-bottom: 10px;
 }
 
-.battery-container {
+.batteryContainer {
   display: flex;
   align-items: flex-start;
   justify-content: center;
